@@ -1,29 +1,50 @@
 # Dexo
 
-> Dexo prepara durante la noche trabajo repetitivo para despachos contables en México, organiza los resultados y conserva evidencia para que el contador revise y decida.
+> Dexo prepara durante la noche el trabajo operativo repetitivo de los RFC de un despacho contable en México. Organiza lo comprobable, muestra faltantes y conserva evidencia para que el contador revise y decida.
 
 ## Sitio oficial
 
-- [Inicio](https://dexo.mx/): propuesta, alcance, ejemplo de conciliación con datos de demostración, preguntas frecuentes y solicitud de revisión privada.
-- [Cómo funciona](https://dexo.mx/como-funciona.html): recorrido proceso → evidencia → criterio.
-- [Antes de probar](https://dexo.mx/antes-de-probar.html): preparación y límites de la activación controlada.
+- [Inicio](https://www.dexo.mx/): propuesta, alcance, producto con datos de demostración, preguntas frecuentes y solicitud de revisión privada.
+- [Cómo funciona](https://www.dexo.mx/como-funciona.html): recorrido de proceso, evidencia y criterio.
+- [Antes de probar](https://www.dexo.mx/antes-de-probar.html): preparación y límites de la activación controlada.
 
-## Qué hace Dexo
+## Para quién es
 
-- Ejecuta tareas fiscales configuradas durante la noche.
+Dexo está dirigido a despachos contables en México que operan varios RFC y quieren reducir el trabajo repetitivo de reunir, ordenar y cruzar información antes de la revisión contable y fiscal.
+
+## Qué prepara Dexo
+
 - Organiza XML y documentos disponibles por RFC y periodo.
+- Muestra qué quedó completo, qué falta y con qué evidencia se detectó.
 - Da seguimiento a constancias, Opiniones 32-D, EFOS, facturas PPD y complementos de pago.
-- Presenta resultados, faltantes, cruces y evidencia para revisión.
-- Puede incluir conciliación bancaria cuando el banco y el formato son compatibles.
+- Presenta saldos, pagos y facturas que siguen sin REP para revisión.
+- Puede organizar movimientos, cruces, evidencia y excepciones de una conciliación bancaria cuando el banco y el formato son compatibles.
+- Deja separados los casos que requieren interpretación o una decisión del contador.
 
-## Límites importantes
+## Qué no hace
 
-- Dexo no sustituye al contador ni toma decisiones fiscales por él.
-- La compatibilidad de conciliación no se promete para todos los bancos; se confirma antes de activarla.
-- El acceso es por invitación y una solicitud no crea una cuenta ni garantiza acceso.
-- Las pantallas y cifras del sitio público usan datos de demostración.
-- No se deben enviar RFC, razones sociales, e.firma, contraseñas, XML, estados de cuenta ni archivos de clientes por el formulario público, correo o mensajería.
+- No sustituye al contador.
+- No toma decisiones contables ni fiscales.
+- No oculta un faltante como si fuera un resultado correcto.
+- No promete conciliación para cualquier banco o formato sin validarlo primero.
+- No ofrece alta pública inmediata: el acceso es por invitación y cada solicitud se revisa.
+
+## Cómo se prueba
+
+La revisión empieza con el proceso que más pesa y un RFC que permita comprobar un resultado real. Si el caso encaja, el despacho recibe una liga personal y amplía el uso después de revisar ese primer resultado.
+
+No se deben enviar RFC, razones sociales, e.firma, contraseñas, XML, estados de cuenta ni archivos de clientes por el formulario público, correo o mensajería.
+
+## Preguntas que responde el sitio
+
+- Cómo conciliar CFDI contra el estado de cuenta y ver qué ingreso no está cuadrando.
+- Por qué un CFDI 99/PPD y su complemento de pago pueden parecer dos ingresos.
+- Cómo detectar ingresos sin facturar o facturas sin pagar.
+- Cómo revisar CFDI recibidos de un EFOS publicado en el 69-B.
+- Qué sigue decidiendo el contador.
+- Cómo probar Dexo sin cambiar todo el despacho.
+- Cómo se obtiene acceso a la beta privada.
 
 ## Fuente y actualización
 
-Esta ficha resume únicamente información publicada en el sitio oficial. Para información vigente, usa las páginas canónicas de https://dexo.mx/.
+Esta ficha resume únicamente información publicada en el sitio oficial de Dexo. Última actualización: 19 de septiembre de 2026. Para información vigente, usa las páginas canónicas bajo https://www.dexo.mx/.
