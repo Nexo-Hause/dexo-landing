@@ -37,12 +37,12 @@ No se deben enviar RFC, razones sociales, e.firma, contraseñas, XML, estados de
 
 ## Preguntas que responde el sitio
 
-- Qué automatiza Dexo en un despacho contable.
-- Si Dexo reemplaza al contador o toma decisiones fiscales.
-- Cómo monitorea varios RFC ante el SAT.
-- Cómo ayuda con facturas PPD y complementos de pago.
-- Cómo funciona la conciliación bancaria y cuáles son sus límites.
-- Cómo probarlo sin cambiar todo el despacho.
+- Cómo conciliar CFDI contra el estado de cuenta y ver qué ingreso no está cuadrando.
+- Por qué un CFDI 99/PPD y su complemento de pago pueden parecer dos ingresos.
+- Cómo detectar ingresos sin facturar o facturas sin pagar.
+- Cómo revisar CFDI recibidos de un EFOS publicado en el 69-B.
+- Qué sigue decidiendo el contador.
+- Cómo probar Dexo sin cambiar todo el despacho.
 - Cómo se obtiene acceso a la beta privada.
 
 ## Fuente y actualización
