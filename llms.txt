@@ -8,6 +8,12 @@
 - [Cómo funciona](https://dexo.mx/como-funciona.html): recorrido proceso → evidencia → criterio.
 - [Antes de probar](https://dexo.mx/antes-de-probar.html): preparación y límites de la activación controlada.
 
+- [El cierre del mes: cuadrar factura, pago y banco sin perseguir pendientes](https://dexo.mx/respuestas/cierre-mes-facturas-pagos-banco/): respuesta para despachos, con ejemplo ficticio.
+- [Pagos parciales: amarrar cada complemento a su movimiento de banco](https://dexo.mx/respuestas/pagos-parciales-complementos-banco/): respuesta para despachos, con ejemplo ficticio.
+- [Lo que no cuadra: faltantes y duplicados antes de la declaración](https://dexo.mx/respuestas/facturas-pagos-no-cuadran/): respuesta para despachos, con ejemplo ficticio.
+- [“¿Ya pagó el cliente?”: responder con evidencia, no con búsqueda](https://dexo.mx/respuestas/cliente-pago-factura/): respuesta para despachos, con ejemplo ficticio.
+- [Desde el estado de cuenta: del PDF del banco a movimientos listos](https://dexo.mx/respuestas/estado-cuenta-pdf-excel-conciliacion/): respuesta para despachos, con ejemplo ficticio.
+
 ## Qué hace Dexo
 
 - Ejecuta tareas fiscales configuradas durante la noche.
