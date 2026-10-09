@@ -16,7 +16,7 @@
 
 ## Qué hace Dexo
 
-- Ejecuta tareas fiscales configuradas durante la noche.
+- Descarga, procesa y valida tus CFDI contra EFOS cada noche.
 - Organiza XML y documentos disponibles por RFC y periodo.
 - Da seguimiento a constancias, Opiniones 32-D, EFOS, facturas PPD y complementos de pago.
 - Presenta resultados, faltantes, cruces y evidencia para revisión.
